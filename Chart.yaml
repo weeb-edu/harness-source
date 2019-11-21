@@ -11,8 +11,8 @@ keywords:
 sources:
   - https://github.com/kubernetes/ingress-nginx
 maintainers:
-  - name: ChiefAlexander
-  - name: taharah
-    email: Trevor.G.Wood@gmail.com
+  - name: weeb
+  - name: weeb
+    email: heyweeb@gmail.com
 engine: gotpl
 kubeVersion: ">=1.10.0-0"
